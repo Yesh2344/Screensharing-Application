@@ -21,6 +21,11 @@ A real-time screen sharing application built with React, Convex, and WebRTC. Sha
 - **UI Components**: Custom components with Tailwind CSS
 - **Notifications**: Sonner for toast notifications
 
+## Prerequisites
+
+- Node.js 18+ 
+- npm or yarn
+- A Convex account (free at [convex.dev](https://convex.dev))
 
 ## Getting Started
 
