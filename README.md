@@ -27,6 +27,7 @@ A real-time screen sharing application built with React, Convex, and WebRTC. Sha
 - npm or yarn
 - A Convex account (free at [convex.dev](https://convex.dev))
 
+## Getting Started
 
 ### 1. Clone the Repository
 
