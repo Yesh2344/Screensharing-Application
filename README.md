@@ -73,6 +73,7 @@ This will:
 - Open your browser automatically
 
 ## Usage
+
 ### Creating a Room
 
 1. Sign in with your credentials
