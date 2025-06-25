@@ -42,7 +42,7 @@ cd screenshare-app
 npm install
 ```
 
-### 3. Set Up Convex
+
 
 1. Create a Convex account at [convex.dev](https://convex.dev)
 2. Install Convex CLI globally:
