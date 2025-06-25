@@ -29,7 +29,12 @@ A real-time screen sharing application built with React, Convex, and WebRTC. Sha
 
 ## Getting Started
 
+### 1. Clone the Repository
 
+```bash
+git clone <your-repo-url>
+cd screenshare-app
+```
 
 ### 2. Install Dependencies
 
