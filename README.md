@@ -36,11 +36,7 @@ git clone <your-repo-url>
 cd screenshare-app
 ```
 
-### 2. Install Dependencies
 
-```bash
-npm install
-```
 
 ### 3. Set Up Convex
 
