@@ -81,7 +81,6 @@ This will:
 3. Click "Create Room"
 4. You'll be automatically joined as the host
 
-
 ### Joining a Room
 
 1. Sign in with your credentials
