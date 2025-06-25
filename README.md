@@ -74,12 +74,6 @@ This will:
 
 ## Usage
 
-### Creating a Room
-
-1. Sign in with your credentials
-2. On the dashboard, enter a room name
-3. Click "Create Room"
-4. You'll be automatically joined as the host
 
 ### Joining a Room
 
