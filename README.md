@@ -217,13 +217,6 @@ The screen sharing uses WebRTC with the following flow:
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Support
-
-If you encounter any issues or have questions:
-
-1. Check the troubleshooting section above
-2. Review the Convex documentation at [docs.convex.dev](https://docs.convex.dev)
-3. Open an issue in this repository
 
 ## Acknowledgments
 
