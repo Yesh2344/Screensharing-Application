@@ -225,12 +225,7 @@ If you encounter any issues or have questions:
 2. Review the Convex documentation at [docs.convex.dev](https://docs.convex.dev)
 3. Open an issue in this repository
 
-## Acknowledgments
 
-- Built with [Convex](https://convex.dev) for real-time backend
-- Uses [WebRTC](https://webrtc.org/) for peer-to-peer screen sharing
-- Styled with [Tailwind CSS](https://tailwindcss.com/)
-- Toast notifications by [Sonner](https://sonner.emilkowal.ski/)
 
 ## Link
 
