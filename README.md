@@ -231,7 +231,3 @@ If you encounter any issues or have questions:
 - Uses [WebRTC](https://webrtc.org/) for peer-to-peer screen sharing
 - Styled with [Tailwind CSS](https://tailwindcss.com/)
 - Toast notifications by [Sonner](https://sonner.emilkowal.ski/)
-
-## Link
-
-https://harmless-iguana-703.convex.app/"# Screensharing-Application" 
