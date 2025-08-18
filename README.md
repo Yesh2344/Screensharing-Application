@@ -1,5 +1,6 @@
 # ScreenShare App
 
+A real-time screen sharing application built with React, Convex, and WebRTC. Share your screen with multiple participants, chat in real-time, and exchange files seamlessly.
 
 ## Features
 
