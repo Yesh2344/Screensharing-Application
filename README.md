@@ -4,12 +4,7 @@ A real-time screen sharing application built with React, Convex, and WebRTC. Sha
 
 ## Features
 
-- 🖥️ **Screen Sharing**: Share your screen with other participants using WebRTC
-- 💬 **Real-time Chat**: Chat with participants in real-time
-- 📁 **File Sharing**: Upload and share files with room participants
-- 👥 **Multi-participant Support**: Support for multiple viewers per room
-- 🔐 **Authentication**: Secure user authentication with Convex Auth
-- 📱 **Responsive Design**: Works on desktop and mobile devices
+
 
 
 ## Tech Stack
