@@ -100,7 +100,12 @@ This will:
 2. Type your message and press Enter or click "Send"
 3. Messages appear in real-time for all participants
 
+### File Sharing
 
+1. Go to the "Files" tab in any room
+2. Drag and drop files or click "Choose Files"
+3. Files are uploaded and shared with all participants
+4. Click "Download" to download shared files
 
 ## Project Structure
 
