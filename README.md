@@ -67,7 +67,10 @@ Start both the frontend and backend:
 npm run dev
 ```
 
-
+This will:
+- Start the Vite development server on `http://localhost:5173`
+- Start the Convex backend in development mode
+- Open your browser automatically
 
 ## Usage
 
