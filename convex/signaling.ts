@@ -49,6 +49,7 @@ export const getSignals = query({
       .collect();
 
     // Also get broadcast signals (no specific toUserId)
+# Added comment
     const broadcastSignals = await ctx.db
       .query("signaling")
       .withIndex("by_room", (q) => q.eq("roomId", args.roomId))
