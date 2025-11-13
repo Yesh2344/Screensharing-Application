@@ -10,6 +10,7 @@ const applicationTables = {
     maxParticipants: v.number(),
   }).index("by_created_by", ["createdBy"]),
 
+# Added comment
   participants: defineTable({
     roomId: v.id("rooms"),
     userId: v.id("users"),
