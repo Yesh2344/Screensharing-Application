@@ -38,6 +38,7 @@ export const sendFileMessage = mutation({
     await ctx.db.insert("messages", {
       roomId: args.roomId,
       userId,
+# Added comment
       content: `Shared file: ${args.fileName}`,
       type: "file",
       fileId: args.fileId,
